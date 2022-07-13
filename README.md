@@ -7,9 +7,6 @@ formal interviews, we ask that all candidates submit a coding challenge. The cod
 a foundational piece of our process and it's referenced later in our process during the technical 
 interviews.
 
-For an experienced web developer, the coding challenge should not take longer than **2-3 hours** to 
-complete.
-
 If at any point you have questions concerning the coding challenge and/or interview process, please
 do not hesitate to reach out to your point of contact via email.
 
@@ -87,14 +84,10 @@ You should only need to add/modify code in the _./client/src/_ and _./server/src
 
 ## Submission
 
-To submit your coding challenge, commit all your changes to the `master` branch and run the 
-following commands:
+To submit your coding challenge, take following steps:
 
 ```
-# Make sure all changes were committed
-git diff-index --quiet HEAD -- || echo 'You have uncommitted changes!'
-
-# Create your branch based of main in format like so:
+# Create your branch based off main branch in format like so:
 submissions/name-surname-date
 
 # Commit your code to your branch and notify your point of contact when it is complete
